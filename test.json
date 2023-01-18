@@ -1,0 +1,9 @@
+{
+    "url": "http://IP/test.yaml",
+    "urls": [
+        {
+            "url": "http://IP/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
